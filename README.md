@@ -1,12 +1,12 @@
-# Better Reliability through Observability (and Experimentation)
+# Better Reliability through Observability
 
 > Companion Repository for our KubeCon Valencia talk. 
 
 ## Slides
 
-A copy of the slides may be found on [Speaker Deck](https://speakerdeck.com/ksatirli/better-reliability-through-experimentation).
+A copy of the slides may be found on [Speaker Deck](https://speakerdeck.com/ksatirli/better-reliability-through-observability-and-experimentation).
 
-[![view on SpeakerDeck](./images/slides.jpg "Better Reliability through Observability (and Experimentation)")](https://speakerdeck.com/ksatirli/better-reliability-through-experimentation)
+[![view on SpeakerDeck](./images/slides.jpg "Better Reliability through Observability (and Experimentation)")](https://speakerdeck.com/ksatirli/better-reliability-through-observability-and-experimentation)
 
 <!--
 ## Speakers
@@ -27,4 +27,4 @@ Check out some of the literature that informed our talk and engineering practice
 | ![Fatal Defect](./images/fatal-defect.jpg "Fatal Defect")             | **Fatal Defect** <br> Chasing Killer Computer Bugs                                | Ivars Peterson         | [view on goodreads.com](https://www.goodreads.com/book/show/1615219)  |
 | ![Accelerate](./images/accelerate.jpg "Accelerate")                   | **Accelerate** <br> Building and Scaling High-Performing Technology Organizations | Nicole Forsgren et al. | [view on goodreads.com](https://www.goodreads.com/book/show/35747076) |
 
-<small>cover images are used for illustration purposes only</small>
+<small>(cover images are used for illustration purposes only)</small>
